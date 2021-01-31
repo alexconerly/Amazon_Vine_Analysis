@@ -29,7 +29,7 @@ Using this vine table, the "total_votes" column was filtered to only include rev
 
 ![](Images_for_readme/at_least_20_votes.png)
 
-Next, we to retrieved all the rows where the number of helpful_votes divided by total_votes is equal to or greater than 50%.  This ensures our data only includes relatively insightful reviews according to customers.
+Next, we retrieved all the rows where the number of helpful_votes divided by total_votes is equal to or greater than 50%.  This ensures our data only includes relatively insightful reviews according to customers.
 
 ![](Images_for_readme/helpful_at_least_half.png)
 
